@@ -2,7 +2,7 @@
 
 ## TryHackMe Progress
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cyberintelhq.png)](https://tryhackme.com/p/cyberintelhq)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cyberintelhq.png?)](https://tryhackme.com/p/cyberintelhq)
 
 ---
 
